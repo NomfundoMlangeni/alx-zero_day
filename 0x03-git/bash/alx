@@ -1,4 +1,2 @@
-<<<<<<< ALX School
-alx
-=======
->>>>>>> update_script
+#!/bin/bash
+echo "Alx School"
